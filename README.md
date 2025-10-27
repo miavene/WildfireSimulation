@@ -18,7 +18,7 @@ Displays real-time statistics such as cycle count, number of state changes, and 
 
 Uses random number generation to produce natural and unpredictable fire spread patterns.
 
-Designed with modular structure using separate files (display.h and display.c) provided by RIT for rendering the grid in the terminal.
+# Designed with modular structure using separate files (display.h and display.c) provided by RIT for rendering the grid in the terminal.
 
 # How to Run:
 
@@ -74,10 +74,16 @@ This project was developed for CSCI-243: Mechanics of Programming at RIT.
 It applies principles of systems programming, random simulation, and algorithmic modeling to visualize real-world phenomena such as wildfire spread.
 
 Concepts Used:
+
 Cellular automata
+
 Random number generation
+
 Command-line parsing with getopt()
+
 Cursor-control and terminal rendering
+
 Data structure design with structs and arrays
+
 
 # Thanks for reading!!! :)
